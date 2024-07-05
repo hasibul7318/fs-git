@@ -38,5 +38,6 @@ int main ()
             amount = amount - (1 * note);
             cout<<note<<" Rs.1 note requied."<<endl;
         }
+      //cpde run
     }
 }
